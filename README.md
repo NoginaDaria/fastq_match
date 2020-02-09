@@ -15,3 +15,5 @@ python fastq_match.py
 ```
 Then it will ask you to enter the full path to the directory with fastq files and to enter either y or n depending on which file format do you use.
 
+The script will show you execution progress and the number of fixed files and removed sequences.
+
